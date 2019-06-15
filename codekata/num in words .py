@@ -1,4 +1,4 @@
 z1=int(input())
-y1=['zero','one','two','three','four','five','six','seven','eight','nine']
+y1=['Zero','One','Two','Three','Four','Five','Six','Seven','Eight','Nine','Ten']
 print(y1[z1])
 
