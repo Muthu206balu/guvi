@@ -1,0 +1,4 @@
+z=input()
+print(z)
+
+
